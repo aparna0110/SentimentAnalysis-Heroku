@@ -1,0 +1,31 @@
+brotlipy==0.7.0
+certifi==2020.11.8
+cffi @ file:///C:/ci/cffi_1606255208697/work
+chardet @ file:///C:/ci/chardet_1605303225733/work
+click==7.1.2
+cryptography @ file:///C:/ci/cryptography_1605526388508/work
+Flask==1.1.2
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+MarkupSafe==1.1.1
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+pandas @ file:///C:/ci/pandas_1602083338010/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1606517880428/work
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-dateutil==2.8.1
+pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
+requests @ file:///tmp/build/80754af9/requests_1606691187061/work
+scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
+scipy @ file:///C:/ci/scipy_1604596260408/work
+six @ file:///C:/ci/six_1605187374963/work
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+Werkzeug==1.0.1
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
